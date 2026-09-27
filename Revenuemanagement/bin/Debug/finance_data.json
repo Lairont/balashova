@@ -1,0 +1,76 @@
+﻿{
+  "OwnerName": "Юлия",
+  "Balances": {
+    "PRB": 3452100000.00,
+    "RUB": 0.0,
+    "USD": 0.00,
+    "EUR": 0.0
+  },
+  "Transactions": [
+    {
+      "Id": "5cec591c-8306-47f8-84bb-d5c6d3c0ca83",
+      "Date": "2026-09-25T16:39:52",
+      "Type": 1,
+      "Category": "Продукты",
+      "Amount": 3455555.0,
+      "Currency": 0,
+      "Note": "",
+      "Shop": "Шериф"
+    },
+    {
+      "Id": "ebf5e60c-1b5e-4575-a53f-9ba84efcdeec",
+      "Date": "2026-09-25T16:39:46",
+      "Type": 0,
+      "Category": "Зарплата",
+      "Amount": 3455555555.0,
+      "Currency": 0,
+      "Note": "",
+      "Shop": ""
+    }
+  ],
+  "Debts": [
+    {
+      "Id": "a7264fec-5722-495b-9c09-bdbdfbe9cc1c",
+      "PersonName": "Лена",
+      "Amount": 300.0,
+      "Currency": 0,
+      "IsOwedToMe": false,
+      "IsPaid": false,
+      "CreatedDate": "2026-09-25T15:01:45",
+      "DueDate": "2026-10-09T00:00:00",
+      "Note": ""
+    },
+    {
+      "Id": "e6427cf9-480d-41f3-b86c-b33eb2db7230",
+      "PersonName": "Юлия",
+      "Amount": 100.0,
+      "Currency": 0,
+      "IsOwedToMe": false,
+      "IsPaid": true,
+      "CreatedDate": "2026-09-23T19:20:46",
+      "Note": ""
+    }
+  ],
+  "IsDarkTheme": true,
+  "ExpenseCategories": [
+    "Продукты",
+    "Транспорт",
+    "Жильё",
+    "Связь",
+    "Одежда",
+    "Развлечения",
+    "Здоровье",
+    "Другое"
+  ],
+  "IncomeCategories": [
+    "Зарплата",
+    "Подарок",
+    "Подработка",
+    "Возврат",
+    "Другое",
+    "работа1"
+  ],
+  "ExchangeRates": {
+    "PRB_USD": 16.35
+  }
+}
