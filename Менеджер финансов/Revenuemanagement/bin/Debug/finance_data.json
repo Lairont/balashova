@@ -1,0 +1,46 @@
+﻿{
+  "OwnerName": "Юлия",
+  "Balances": {
+    "PRB": 0.0,
+    "RUB": 0.0,
+    "USD": 0.0,
+    "EUR": 0.0
+  },
+  "Transactions": [],
+  "Debts": [
+    {
+      "Id": "a915bf62-5f71-4566-a959-e2f80f2d8947",
+      "PersonName": "",
+      "Amount": 0.0,
+      "Currency": 0,
+      "IsOwedToMe": false,
+      "IsPaid": false,
+      "CreatedDate": "2026-09-29T12:16:44",
+      "Note": ""
+    }
+  ],
+  "IsDarkTheme": false,
+  "ExpenseCategories": [
+    "Продукты",
+    "Транспорт",
+    "Жильё",
+    "Связь",
+    "Одежда",
+    "Развлечения",
+    "Здоровье",
+    "Другое",
+    "гаражи"
+  ],
+  "IncomeCategories": [
+    "Зарплата",
+    "Подарок",
+    "Подработка",
+    "Возврат",
+    "Другое",
+    "работа1"
+  ],
+  "ExchangeRates": {
+    "PRB_USD": 16.35,
+    "USD_PRB": 16.35
+  }
+}
